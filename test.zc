@@ -1,0 +1,8 @@
+  U0 DemoZealC(U8 drive, U8 *format, U8 *name, I64 age)
+  {
+    "Hello World!\n";
+    "%s age %d\n", name, age;
+    "" format, name, age;
+    '' drive;
+    '*';
+  }
